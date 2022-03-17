@@ -1,0 +1,42 @@
+@media (max-width:991px){
+    .navbar_wrap{
+        text-align: center;
+        background-color: white;
+    }
+    .counter_number{
+        margin: 15px 0px;
+    }
+}
+
+
+
+@media (max-width:780px){
+    .top-banner-content{
+        /* background-color: aquamarine; */
+        width: 60%;
+    }
+    .top-banner h1{
+        font-size: 25px;
+    }
+    .top-banner .main-btn{
+        font-size: 12px;
+        text-transform: uppercase;
+        margin: 0px 9px 0px 0px !important;
+        padding: 6px !important;
+    }
+    .top-banner .white-btn{
+        font-size: 12px;
+        text-transform: uppercase;
+        margin: 0px !important;
+        padding: 5px !important;
+    }
+}
+
+/* @media (max-width:520px){
+    .top-banner .main-btn{
+        font-size: 10px;
+        text-transform: uppercase;
+        padding: 0px !important;
+        
+    }
+} */
